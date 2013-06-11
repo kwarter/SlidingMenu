@@ -15,4 +15,5 @@ gen
 .metadata/
 .metadata
 slidingmenu/target
+slidingmenu/build
 slidingmenu/gen-external-apklibs
