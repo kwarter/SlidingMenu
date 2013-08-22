@@ -16,7 +16,7 @@ repositories {
 
 dependencies {
     compile 'com.google.android:support-v4:r6'
-    compile project(':Libraries:ActionBarSherlock:actionbarsherlock')
+    //compile project(':Libraries:ActionBarSherlock:actionbarsherlock')
 }
 
 android {
